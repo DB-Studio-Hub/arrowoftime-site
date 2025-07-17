@@ -3,6 +3,7 @@
   --ai-gen-82921b10-4b39-48f0-b346-808cf4903d29-1749379923749---container--container-padding-horizontal: var(--ai-gen-82921b10-4b39-48f0-b346-808cf4903d29-1749379923749---spacing--2x);
   --ai-gen-82921b10-4b39-48f0-b346-808cf4903d29-1749379923749---container--container-lg-width: 1440px;
   --ai-gen-82921b10-4b39-48f0-b346-808cf4903d29-1749379923749---container--container-sm-width: 1000px;
+  --ai-gen-82921b10-4b39-48f0-b346-808cf4903d29-1749379923749---input--input-padding-vertical: var(--ai-gen-82921b10-4b39-48f0-b346-808cf4903d29-1749379923749---spacing--1x);
   --ai-gen-82921b10-4b39-48f0-b346-808cf4903d29-1749379923749---section--section-padding-vertical: var(--ai-gen-82921b10-4b39-48f0-b346-808cf4903d29-1749379923749---spacing--2x);
   --ai-gen-82921b10-4b39-48f0-b346-808cf4903d29-1749379923749---nav--nav-height: 6rem;
   --ai-gen-82921b10-4b39-48f0-b346-808cf4903d29-1749379923749---text-color--text-primary: var(--ai-gen-82921b10-4b39-48f0-b346-808cf4903d29-1749379923749---core-neutral-color--neutral-inverse);
@@ -20,7 +21,6 @@
   --ai-gen-82921b10-4b39-48f0-b346-808cf4903d29-1749379923749---background-color--bg-accent-tertiary: var(--ai-gen-82921b10-4b39-48f0-b346-808cf4903d29-1749379923749---core-accent-color--accent-tertiary);
   --ai-gen-82921b10-4b39-48f0-b346-808cf4903d29-1749379923749---text-color--text-on-accent-tertiary: #616867;
   --aot-off-white: white;
-  --ai-gen-82921b10-4b39-48f0-b346-808cf4903d29-1749379923749---input--input-padding-vertical: var(--ai-gen-82921b10-4b39-48f0-b346-808cf4903d29-1749379923749---spacing--1x);
   --ai-gen-82921b10-4b39-48f0-b346-808cf4903d29-1749379923749---card--card-radius: 0px;
   --ai-gen-82921b10-4b39-48f0-b346-808cf4903d29-1749379923749---input--input-radius: 0px;
   --ai-gen-82921b10-4b39-48f0-b346-808cf4903d29-1749379923749---spacing--1-25x: 1.25rem;
@@ -462,6 +462,11 @@
 .container.small-container {
   max-width: var(--ai-gen-82921b10-4b39-48f0-b346-808cf4903d29-1749379923749---container--container-sm-width);
   width: 75%;
+}
+
+.container.utility-position-relative.utility-padding-bottom-4rem {
+  padding-right: var(--ai-gen-82921b10-4b39-48f0-b346-808cf4903d29-1749379923749---input--input-padding-vertical);
+  padding-left: var(--ai-gen-82921b10-4b39-48f0-b346-808cf4903d29-1749379923749---input--input-padding-vertical);
 }
 
 .container.utility-position-relative.utility-padding-bottom-4rem.utility-padding-top-4rem {
@@ -7920,6 +7925,7 @@ img {
   color: var(--ai-gen-82921b10-4b39-48f0-b346-808cf4903d29-1749379923749---background-color--bg-primary);
   width: 100vw;
   height: 100vh;
+  display: none;
   position: fixed;
   inset: 6.5rem 0% 0;
   overflow: hidden;
@@ -9959,7 +9965,7 @@ img {
     color: var(--ai-gen-82921b10-4b39-48f0-b346-808cf4903d29-1749379923749---background-color--bg-primary);
     width: 100vw;
     height: auto;
-    display: block;
+    display: none;
     position: fixed;
     inset: 6.5rem auto 0 0%;
     overflow: hidden;
@@ -10009,6 +10015,8 @@ img {
 
 @media screen and (max-width: 479px) {
   .container.store-banner {
+    padding-right: var(--ai-gen-82921b10-4b39-48f0-b346-808cf4903d29-1749379923749---input--input-padding-vertical);
+    padding-left: var(--ai-gen-82921b10-4b39-48f0-b346-808cf4903d29-1749379923749---input--input-padding-vertical);
     width: 90%;
   }
 
@@ -10147,8 +10155,8 @@ img {
   }
 
   .grid-layout.tablet-1-column.grid-gap-lg.y-bottom.grid-gap-sm {
-    padding-left: .5rem;
-    padding-right: .5rem;
+    padding-left: 0;
+    padding-right: 0;
   }
 
   .grid-layout.mobile-portrait-1-column {
@@ -10165,8 +10173,14 @@ img {
   }
 
   .h1-heading.utility-margin-bottom-0.small-right-justified.tagline-right-justified-mobile {
-    padding-left: 1rem;
+    padding-left: 0;
+    padding-right: 0;
     display: block;
+  }
+
+  .h1-heading.utility-margin-bottom-0.big-left-justified.home-heading {
+    padding-left: 0;
+    padding-right: 0;
   }
 
   .h2-heading {
@@ -10916,7 +10930,7 @@ img {
     width: 100%;
     height: auto;
     margin-bottom: 0;
-    display: block;
+    display: none;
     position: fixed;
     inset: 6.5rem 0% 0;
     overflow: hidden;
@@ -11864,6 +11878,7 @@ img {
 
 @media screen and (max-width: 479px) {
   #w-node-_11fd528b-cac9-5f62-02fd-dce3a445e47f-4bd08b88 {
+    grid-area: span 1 / span 1 / span 1 / span 1;
     place-self: end start;
   }
 
