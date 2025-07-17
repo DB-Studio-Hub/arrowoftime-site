@@ -353,27 +353,3 @@ td,
 th {
   padding: 0;
 }
-
-@font-face {
-  font-family: 'Cormorant Garamond';
-  src: url('fonts/CormorantGaramond-Regular.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-  font-display: block;
-}
-
-@font-face {
-  font-family: 'Futura Now Text';
-  src: url('fonts/FuturaNowText.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-  font-display: block;
-}
-
-@font-face {
-  font-family: 'Neue Haas Grotesk Display Thin';
-  src: url('fonts/neuehaasgrotdisp-25xthin-trial.otf') format('opentype');
-  font-weight: normal;
-  font-style: normal;
-  font-display: block;
-}

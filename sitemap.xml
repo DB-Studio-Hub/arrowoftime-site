@@ -1,147 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://www.arrowoftime.net/</loc>
-  <lastmod>2025-06-24T08:14:39+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://www.arrowoftime.net/releases/all</loc>
-  <lastmod>2025-06-24T08:14:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.arrowoftime.net/film/all</loc>
-  <lastmod>2025-06-24T08:14:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.arrowoftime.net/curation/playlists/all</loc>
-  <lastmod>2025-06-24T08:14:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.arrowoftime.net/about</loc>
-  <lastmod>2025-06-24T08:14:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.arrowoftime.net/curation/playlists/pedals-and-patches</loc>
-  <lastmod>2025-06-24T08:14:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.arrowoftime.net/curation/playlists/synth-symphony</loc>
-  <lastmod>2025-06-24T08:14:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.arrowoftime.net/privacy-policy</loc>
-  <lastmod>2025-06-24T08:14:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.arrowoftime.net/terms-of-service</loc>
-  <lastmod>2025-06-24T08:14:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.arrowoftime.net/cookies</loc>
-  <lastmod>2025-06-24T08:14:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.arrowoftime.net/releases/precession</loc>
-  <lastmod>2025-06-24T08:14:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.arrowoftime.net/releases/gossamer</loc>
-  <lastmod>2025-06-24T08:14:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.arrowoftime.net/releases/samedi</loc>
-  <lastmod>2025-06-24T08:14:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.arrowoftime.net/releases/vectors</loc>
-  <lastmod>2025-06-24T08:14:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.arrowoftime.net/releases/inflection-point</loc>
-  <lastmod>2025-06-24T08:14:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.arrowoftime.net/releases/recombination</loc>
-  <lastmod>2025-06-24T08:14:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.arrowoftime.net/releases/expansions</loc>
-  <lastmod>2025-06-24T08:14:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.arrowoftime.net/curation/playlists/art-museum</loc>
-  <lastmod>2025-06-24T08:14:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.arrowoftime.net/curation/playlists/neoclassic-909</loc>
-  <lastmod>2025-06-24T08:14:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.arrowoftime.net/curation/playlists/electronic-elegy</loc>
-  <lastmod>2025-06-24T08:14:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.arrowoftime.net/curation/playlists/classical-codecs</loc>
-  <lastmod>2025-06-24T08:14:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.arrowoftime.net/curation/playlists/vinyl-virtuoso</loc>
-  <lastmod>2025-06-24T08:14:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.arrowoftime.net/curation/playlists/cable-concerto</loc>
-  <lastmod>2025-06-24T08:14:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.arrowoftime.net/curation/playlists/art-movement</loc>
-  <lastmod>2025-06-24T08:14:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.arrowoftime.net/curation/playlists/reel-romance</loc>
-  <lastmod>2025-06-24T08:14:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.arrowoftime.net/curation/playlists/pianos-and-pads</loc>
-  <lastmod>2025-06-24T08:14:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.arrowoftime.net/curation/playlists/modular-maestro</loc>
-  <lastmod>2025-06-24T08:14:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://arrowoftime.net/index.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/style-guide.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/about.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/privacy-policy.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/form-error.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/cookies.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/404.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/static-template-slug-1750081250104.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/terms-of-service.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/401.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/thank-you.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/releases/all.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/releases/recollapse.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/releases/samedi.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/releases/precession.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/releases/coda.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/releases/undulations.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/releases/expansions.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/releases/vectors.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/releases/zenith.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/releases/gossamer.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/releases/eternal-return.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/releases/recombination.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/releases/inflection-point.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/curation/playlists/all.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/curation/playlists/art-museum.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/curation/playlists/art-movement.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/curation/playlists/vinyl-virtuoso.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/curation/playlists/modular-maestro.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/curation/playlists/neoclassic-909.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/curation/playlists/pedals-and-patches.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/curation/playlists/cable-concerto.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/curation/playlists/classical-codecs.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/curation/playlists/pianos-and-pads.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/curation/playlists/reel-romance.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/curation/playlists/electronic-elegy.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/curation/playlists/synth-symphony.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arrowoftime.net/film/all.html</loc>
+    <lastmod>2025-07-17T16:43:42Z</lastmod>
+  </url>
 </urlset>
